@@ -1,0 +1,11 @@
+{
+  "name": "Puppeteer",
+  "version": "1.0.0",
+  "description": "Puppeteer Demo.",
+  "main": "index.js",
+  "author": "bayuefen",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
